@@ -85,7 +85,6 @@
 * Multi-Release JAR Files
 * Stack Walking
 * Java Docs Updates
-
 * Reactive Streams API
 * GC (Garbage Collector) Improvements
 * Filter Incoming Serialization Data
