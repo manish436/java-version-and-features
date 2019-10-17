@@ -21,7 +21,7 @@
 * HotSpot JVM included
 * Java Naming and Directory Interface (JNDI) 
 * Java Platform Debugger Architecture (JPDA)
-
+---
 ### J2SE 1.4 February 6, 2002
 * assert keyword
 * Regular expressions modeled after Perl regular expressions
@@ -32,7 +32,7 @@
 * Integrated security and cryptography extensions (JCE, JSSE, JAAS)
 * Java Web Start included (Java Web Start was first released in March 2001 for J2SE 1.3) (specified in JSR 56)
 * Preferences API (java.util.prefs)
-
+---
 ### J2SE 5.0 September 30, 2004
 * Generics
 * Metadata/ Annotations
@@ -44,14 +44,14 @@
 * Static imports
 * The concurrency utilities in package java.util.concurrent
 * Scanner class
-
+---
 ### Java SE 6 December 11, 2006
 * JDBC 4.0 support 
 * Java Compiler API
 * JAXB  2.0
 * Support for pluggable annotations
 * JVM improvements
-
+---
 ### Java SE 7 July 7, 2011
 * Strings in switch 
 * Automatic resource management in try-statement 
@@ -62,7 +62,7 @@
 * Catching multiple exception types and rethrowing exceptions with improved type checking
 * Threading: Fork join
 * Timsort is used to sort collections and arrays of objects instead of merge sort
-
+---
 ### Java SE 8 March 18, 2014
 * Lambda Expressions
 * Pipelines and Streams
@@ -73,8 +73,7 @@
 * Parallel operations
 * PermGen Space Removed
 * Nashorn JavaScript Engine
-
-
+---
 ### Java SE 9
 * Java platform module system
 * Interface Private Methods
@@ -95,7 +94,7 @@
 * Enhanced Method Handles
 * Compact Strings
 * Parser API for Nashorn
-
+---
 ### Java SE 10 March 20, 2018
 * Local-variable type inference
 * Experimental Java-based JIT compiler. This is the integration of the Graal dynamic compiler for the Linux x64 platform
@@ -109,8 +108,7 @@
 * Heap allocation on alternative memory devices
 * Remove the native-header generation tool – javah
 * Consolidate the JDK forest into a single repository
-
-
+---
 ### Java SE 11 September 25, 2018
 * Dynamic class-file constants
 * Epsilon: a no-op garbage collector
@@ -123,7 +121,7 @@
 * JavaFX, Java EE and CORBA modules have been removed from JDK
 * Deprecated the Nashorn JavaScript engine
 * Unicode 10.0.0 support (while current version is Unicode 11.0.0, it's only in Java 12
-
+---
 ### Java SE 12 March 19, 2019
 * Shenandoah: A Low-Pause-Time Garbage Collector (Experimental)
 * Microbenchmark Suite
@@ -133,7 +131,7 @@
 * Default CDS Archives
 * Abortable Mixed Collections for G1
 * Promptly Return Unused Committed Memory from G1
-
+---
 ### Java SE 13 September 17, 2019
 * Dynamic CDS Archives
 * ZGC: Uncommit Unused Memory
